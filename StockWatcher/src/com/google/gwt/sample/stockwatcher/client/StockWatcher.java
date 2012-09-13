@@ -165,7 +165,10 @@ public class StockWatcher implements EntryPoint {
     refreshWatchList();
 
   }
-
+  
+  public void randomMethod() {
+	  System.out.println("Alyssa is awesome!");
+  }
   /**
    * Generate random stock prices.
    */
